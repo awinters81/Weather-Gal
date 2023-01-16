@@ -1,7 +1,7 @@
 //Variables will need to be created to pull from the API
 
 var weatherApi = 'https://api.openweathermap.org';
-var weatherKey = '';
+var weatherKey = '49b181ab6c57b82e7853d25a46d69d15';
 
 //And I have to create variables to reference the HTML elements
 
